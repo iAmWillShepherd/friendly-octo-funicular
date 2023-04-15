@@ -1,0 +1,10 @@
+###### Model wearing shirt
+```
+https://raw.githubusercontent.com/iAmWillShepherd/friendly-octo-funicular/main/graphic.jpg
+Subject: A young male model
+Background, Environment, Atmosphere: City setting, urban environment, daylight
+What Style? Realistic, photographic quality
+Parameters: Headshot or three-quarter body shot, confident expression, place the image from the URL onto a black shirt
+--v 5
+--aspect 5:4
+```
